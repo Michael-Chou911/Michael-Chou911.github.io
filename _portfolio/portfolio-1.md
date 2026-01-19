@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/fig
 collection: portfolio
 ---
 
-This study was conducted based on the Paediatric Intensive Care (PIC) Database, focusing on the analysis of clinical characteristics of paediatric Intensive Care Unit (ICU) patients. It aimed to explore the age distribution patterns and the correlation between laboratory indicators and clinical outcomes, thereby providing data support for the diagnosis and treatment of paediatric critical illnesses.
+#This study was conducted based on the Paediatric Intensive Care (PIC) Database, focusing on the analysis of clinical characteristics of paediatric Intensive Care Unit (ICU) patients. It aimed to explore the age distribution patterns and the correlation between laboratory indicators and clinical outcomes, thereby providing data support for the diagnosis and treatment of paediatric critical illnesses.
 
 <div align="center">  <!-- 让整个区块居中 -->
   <img 
