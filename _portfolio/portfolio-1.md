@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/fig
 collection: portfolio
 ---
 
-PIC 数据库（Paediatric Intensive Care Database）是由浙江大学医学院附属儿童医院开发的儿科重症监护单中心开放临床数据库。本文对该数据库数据进行了数据读取、数据预处理、统计分析、预测模型建立、预测模型评估与可视化等操作，形成了如下报告。
+This study was conducted based on the Paediatric Intensive Care (PIC) Database, focusing on the analysis of clinical characteristics of paediatric Intensive Care Unit (ICU) patients. It aimed to explore the age distribution patterns and the correlation between laboratory indicators and clinical outcomes, thereby providing data support for the diagnosis and treatment of paediatric critical illnesses.
 
 <div align="center">  <!-- 让整个区块居中 -->
   <img 
