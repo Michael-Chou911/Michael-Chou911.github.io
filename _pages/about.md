@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a first-year PhD student at the School of Pharmaceutical Sciences, Peking University, supervised by Professor Qiao Xue. My previous research experience focused on the semi-rational engineering of enzymes, the mining and design of bioactive peptides in yeast. Currently, my research interests lie in the biosynthesis of plant natural products and the engineering of plant P450 enzymes.
 
 Research Interests
